@@ -8,3 +8,11 @@ Install my-project
 ```python 
   $ pip install -r requirements.txt
 ```
+## Test
+Open and run file `main.ipynb`
+
+## Results
+- Transient behavior of neural network with 10 different initial points in problem 1
+![Architecture](result1.png)
+- Transient behavior of neural network with 10 different initial points in problem 2
+![Architecture](result.png)
